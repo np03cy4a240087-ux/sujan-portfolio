@@ -1,13 +1,28 @@
+
 body {
-  background-color: lightblue;
+    font-family: Arial;
+    margin: 0;
+    padding: 0;
 }
 
-h1 {
-  color: white;
-  text-align: center;
+header {
+    background: #222;
+    color: white;
+    padding: 20px;
+    text-align: center;
 }
 
-p {
-  font-family: verdana;
-  font-size: 15px;
+nav a {
+    color: white;
+    margin: 0 15px;
+    text-decoration: none;
+}
+
+section {
+    padding: 40px;
+}
+
+img {
+    border-radius: 10px;
+    margin-top: 10px;
 }
